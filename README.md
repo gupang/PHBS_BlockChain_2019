@@ -1,4 +1,4 @@
-### URL: www.github.com-Rambo-PHBS_BlockChain_2019
+### URL: https://github.com/gupang/PHBS_BlockChain_2019
 ### Name: 顾庞 @Rambo， ID：1901212580, rambopang@pku.edu.cn
 # Homework1- ScroogeCoin, A Centralized Bitcoin System
 
