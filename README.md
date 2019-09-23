@@ -2,11 +2,13 @@
 
 ### Name: 顾庞 @Rambo， ID：1901212580, rambopang@pku.edu.cn
 
-### If any problem, please feel free to contact me!
-
-### Welcome to my Github Page! 
+### _If any problem, please feel free to contact me!_
 
 
 
-#### Note: Kindly remind that the markdown file for specific homework is in each homework's folder.
+# **Welcome to my Github Page!** 
+
+
+
+#### _Note: Kindly remind that the markdown file for specific homework is in each homework's folder._
 
