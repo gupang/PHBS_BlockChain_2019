@@ -2,7 +2,7 @@
 
 ### Name: 顾庞 @Rambo， ID：1901212580, rambopang@pku.edu.cn
 
-###### If any proble, please feel free to contact me!
+### If any problem, please feel free to contact me!
 
 ### Welcome to my Github Page! 
 
